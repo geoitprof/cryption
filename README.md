@@ -24,9 +24,9 @@ Supports:
 
 ---
 
-## 🛠️ Dependencies
+## 🛠Dependencies
 
-✅ Install required packages using `pip`:
+Install required packages using `pip`:
 
 ```bash
 pip install PyQt5

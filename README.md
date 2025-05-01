@@ -39,7 +39,7 @@ pip install pycryptodome
 2. Clone or download this repository.
 3. Navigate to the project folder:
 ````
-cd ~/crypto_app
+cd ~/cryption
 ````
 4. Run the app:
 ````

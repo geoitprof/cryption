@@ -28,6 +28,44 @@ Supports:
 
 Install required packages using `pip`:
 
-```bash
+````
 pip install PyQt5
 pip install pycryptodome
+````
+
+### Installation
+
+1. Make sure Python 3.x is installed.
+2. Clone or download this repository.
+3. Navigate to the project folder:
+````
+cd ~/crypto_app
+````
+4. Run the app:
+````
+python main.py
+````
+(or python3 main.py depending on your system)
+The GUI will launch.
+
+How to Use
+Enter text in the input box.
+
+Choose an operation from the dropdown:
+
+Hash - SHA256
+Hash - SHA512
+Encrypt - AES
+Decrypt - AES
+
+(AES only) Enter a password/key in the Key field.
+
+Click Process → result will display.
+
+Optionally:
+
+View Logs → displays all past actions
+
+Save Result → saves current result to a text file
+
+All actions are logged automatically to logs.txt.

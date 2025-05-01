@@ -48,24 +48,17 @@ python main.py
 (or python3 main.py depending on your system)
 The GUI will launch.
 
-How to Use
-Enter text in the input box.
+## How to Use
+1. Enter text in the input box.
+2. Choose an operation from the dropdown:
+- Hash - SHA256
+- Hash - SHA512
+- Encrypt - AES
+- Decrypt - AES
+3. (AES only) Enter a password/key in the Key field.
+4. Click Process → result will display.
 
-Choose an operation from the dropdown:
-
-Hash - SHA256
-Hash - SHA512
-Encrypt - AES
-Decrypt - AES
-
-(AES only) Enter a password/key in the Key field.
-
-Click Process → result will display.
-
-Optionally:
-
+5. Optionally:
 View Logs → displays all past actions
-
 Save Result → saves current result to a text file
-
 All actions are logged automatically to logs.txt.

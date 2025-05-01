@@ -1,8 +1,8 @@
-# 🔐 Hash & Encryption Tool (Python + PyQt5)
+# Hash & Encryption Tool (Python + PyQt5)
 
 A simple, clean GUI-based application for **hashing, encrypting, and decrypting text**, built with **Python**, **PyQt5**, and **PyCryptodome**.
 
-✅ Supports:
+Supports:
 - SHA256 & SHA512 hashing
 - AES encryption & decryption (with a custom key)
 - Logging of all actions
@@ -11,7 +11,7 @@ A simple, clean GUI-based application for **hashing, encrypting, and decrypting 
 
 ---
 
-## 🚀 Features
+## Features
 
 - Clean, user-friendly GUI (PyQt5)
 - Input text → choose method → get result
